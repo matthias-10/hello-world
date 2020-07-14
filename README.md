@@ -1,5 +1,5 @@
 # hello-world
-repository for learning github
+Repository for learning github
 
 Hello people!
 
